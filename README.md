@@ -13,6 +13,10 @@ Client side: sudo /bin/ip link set can0 up type can bitrate 500000 ./click
 Server side: ./candump can0
 
 PS: Code above is only client side. Server side source code is too big to add to github. 
-    Please download at git clone https://github.com/linux-can/can-utils.git
+    Please download at:
+    
+    git clone https://github.com/linux-can/can-utils.git
+    
     http://skpang.co.uk/catalog/pican2-canbus-board-for-raspberry-pi-2-p-1475.html
+    
     https://www.skptechnology.co.uk/pican2-software-installation/
